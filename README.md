@@ -1,2 +1,3 @@
 # DeliveranceChurch
 Deliverance Church Ndagani Website
+This repository contains the source code for the Deliverance Church Ndagani website. The website serves as an online platform for the church, providing information about services, events, ministries, and contact details for reaching out to the church community. The website is built using HTML, CSS, and PHP, with a focus on responsive design to ensure compatibility across various devices. Features include user-friendly navigation, dynamic content management for events and ministries, and a contact form for visitors to connect with the church. Contributions and feedback are welcome!
